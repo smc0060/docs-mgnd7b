@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-6qthgr.cuansalam.sbs/sitemap.xml
